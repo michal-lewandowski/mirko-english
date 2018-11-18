@@ -23,7 +23,6 @@ class ParticipantsProvider
     public function getParticipantsByPostUpvotes(int $postId): ParticipantsCollection
     {
         $upvoters = $this->client->get(sprintf('Entries/Upvoters/%d', $postId));
-        var_dump($upvoters);
         return ParticipantsCollection::createFromApiResponse($upvoters['data']);
     }
 }
