@@ -1,0 +1,835 @@
+amphibian;płaz
+arctic fox;lis polarny
+baboon;pawian
+badger;borsuk
+beetle;chrząszcz, żuk
+buffalo;bizon
+carnivore;mięsożerca
+caterpillar;gąsienica
+cougar;puma
+dove;gołąb
+extinct;wymarły
+falcon;sokół
+firefly;świetlik
+grasshopper;konik polny
+groundhog;świstak
+hare;zając
+hedgehog;jeż
+insectivore;owadożerca
+lice;wszy
+lynx;ryś
+mammal;ssak
+nightingale;słowik
+octopus;ośmiornica
+ostrich;struś
+peacock;paw
+quail;przepiórka
+raccoon;szop pracz
+reptile;gad
+rhino;nosorożec
+roach;płotka
+rodent;gryzoń
+squid;kałamarnica
+squirrel;wiewiórka
+swan;łabędź
+toad;ropucha
+trout;pstrąg
+venomous;jadowity
+walrus;mors
+whale;wieloryb
+wolverine;rosomak
+answering machine;automatyczna sekretarka
+benchmark;test wydajności
+database;baza danych
+encryption;szyfrowanie
+hardware;sprzęt
+humidifier;nawilżacz
+juicer;sokowirówka
+resolution;rozdzielczość
+sewing machine;maszyna do szycia
+storage;pamięć
+toolbar;pasek narzędzi
+word processor;edytor tekstu
+abbey;opactwo
+amphitheater;amfiteatr
+bungalow;dom parterowy
+cabana;kabina plażowa
+chalet;domek w górach
+chapel;kapliczka
+city hall;ratusz
+courthouse;gmach sądu
+greenhouse;szklarnia
+headquarters;siedziba
+hut;chata, szałas
+log cabin;domek z bali
+marina;przystań
+nursing home;dom spokojnej starości
+power plant;elektrownia
+rectory;plebania
+spire;iglica
+stable;stajnia
+triplex;dom dla trzech rodzin
+watermill;młyn wodny
+apparel;odzież
+balaclava;kominiarka
+beanie;czapeczka
+bow tie;muszka
+briefs;slipy, figi
+cardigan;sweter rozpinany
+cufflink;spinka do mankietu
+flannel shirt;koszula flanelowa
+frock;sukmana, suknia
+gilet;kamizelka
+hoodie;bluza z kapturem
+jersey;koszulka sportowa
+neckerchief;apaszka
+overalls;ogrodniczki, kombinezon
+slippers;kapcie
+tank top;bezrękawnik
+veil;welon
+zipper;zamek błyskawiczny
+adoration;uwielbienie
+alienation;wyobcowanie
+anguish;cierpienie
+awe;podziw
+bliss;szczęście, rozkosz
+closeness;bliskość
+contempt;pogarda
+cross;poirytowany
+dismay;niepokój
+elation;euforia
+enraged;wściekły
+envious;zazdrosny, zawistny
+exuberant;entuzjastyczny
+flustered;skołowany
+grumpy;zrzędliwy
+infatuated;zauroczony
+jaded;znużony, zmęczony
+loathing;obrzydenie, odraza
+misery;nędza
+placid;łagodny
+rapture;zachwyt
+remorse;wyrzuty sumienia
+smug;próżny
+subdued;przygnębiony
+tranquil;cichy
+vivacious;pełen życia
+bunk bed;łóżko piętrowe
+cradle;kołyska
+crib;łóżeczko dziecięce
+display cabinet;gablota
+easel;sztaluga
+folding chair;krzesło składane
+hassock;podnóżek
+hutch;kredens
+nighstand;stolik nocny
+ottoman;otomana, sofa
+recliner;leżanka
+waterbed;łóżko wodne
+writing desk;biurko
+altitude;wysokość
+chart;diagram, mapa
+coordinates;współrzędne
+elevation;wysokość nad poziomem morza
+equator;równik
+hemisphere;półkula
+latitude;szerokość geograficzna
+longitude;długość geograficzna
+meridian;południk
+accordion;akordeon
+acoustic guitar;gitara akustyczna
+bagpipe;duda
+bassoon;fagot
+brass instruments;instrumenty dęte
+cello;wiolonczela
+clarinet;klarnet
+double bass;kontrabas
+flute;flet
+harp;harfa
+strings;struny
+viola;altówka
+violin;skrzypce
+xylophone;ksylofon
+accountant;księgowy
+accrual;kwota narosła
+agenda;terminarz
+bond;obligacja
+bottom line;saldo
+collateral;zabezpieczenie pożyczki
+commodity;dobro, towar
+copyright;prawo autorskie
+deflation;deflacja
+dividend;dzielna, dywidenda
+entrepreneur;przedsiębiorca
+expenses;koszty
+figures;liczby
+fund;fundusz
+gross;brutto
+incentive;zachęta
+investment;inwestycja
+invoice;faktura
+liability;odpowiedzialność
+offer;oferta
+owner;właściciel
+overhead;koszty stałe
+policy;polityka, zasady
+shareholder;akcjonariusz
+tariff;cło
+venture;przedsięwzięcie
+wholesale;sprzedaż hurtowa
+astronomy;astronomia
+biochemistry;biochemia
+botany;botanika
+climatologist;klimatolog
+electrochemist;elektrochemik
+element;pierwiastek
+fossil;skamieniałość
+hypothesis;hipoteza
+ornithology;ornitologia
+phase;etap
+quantum;kwantowy
+tissue;tkanka
+variable;zmienna
+volume;ilość, wielkość
+axe;siekiera
+bellows;miechy
+brush;szczotka, pędzel
+chisel;dłuto
+clamp;zacisk
+crowbar;łom
+hacksaw;piłka do metalu
+jigsaw;wyrzynarka
+lever;lewarek
+pulley;koło pasowe
+razor;brzytwa
+rivet;nit
+ruler;miarka, linijka
+sandpaper;papier ścierny
+scraper;skrobaczka
+shovel;łopata
+spade;szpadel
+staple gun;zszywacz
+vise;imadło
+wedge;klin
+wrench;klucz
+blade;ostrze
+bullet;pocisk
+carbine;karabinek
+dagger;sztylet
+explosives;materiały wybuchowe
+firearm;broń palna
+grenade;granat
+gun;pistolet
+gunpowder;proch strzelniczy
+longbow;łuk
+machine gun;karabin maszynowy
+mortar;moździerz
+rifle;karabin
+saber;szabla
+spear;dzida
+taser;paralizator
+whip;bicz
+baker's dozen;trzynaście
+cubic meter;metr sześcienny
+dozen;tuzin
+gross;brutto
+knot;węzeł
+ounce;uncja
+pinch;szczypta
+smidgen;kapka
+square;kwadratowy
+backyard;podwórko
+bench;ławka
+compost;kompost
+gutter;rynna
+hammock;hamak
+lawnmower;kosiarka do trawy
+rake;grabie
+shed;szopa
+shrub;krzew
+vine;winorośl
+walkway;chodnik
+wince;krzywić się
+quarry;kamieniołom, wydobywać
+cock-eyed;zwariowany (odnośnie np. metody)
+wick;knot
+moonshine/hooch;bimber
+tatters;strzępy
+conduit;przewód
+valve;zawór, zastawka
+startling;zaskakujący
+nozzle;końcówka (np. węża ogrodowego)
+centrifugal;odśrodkowy
+sternly;srogo
+inversely;odwrotnie
+ingenious;pomysłowy
+palsy;paraliż twarzy
+wringer;magiel
+sissy;cykor, maminsynek, baba, dziewucha (o chłopcu)
+at that juncture;w tamtym momencie
+interminable;bez końca (przymiotnik)
+paramecium;pantofelek
+nuclei;jądro komórkowe
+prong;ząb widelca
+aphid;mszyca
+scurry;pędzić gdzieś
+yank;szarpać
+larder;spiżarnia
+bloodhound;ogar, pies gończy
+patter;gadka, tupot
+hectic;gorączkowy
+dopey;otumaniony, głupkowaty
+splotch;plama
+takeaway;na wynos
+assay;test
+underling;podwładny
+mope;rozczulać się nad sobą
+bar;szlaban na drodze
+border guards;straż graniczna
+cord;struna
+cast-iron;żeliwny
+bring something together;pogodzić coś ze sobą
+starling;szpak
+ulcers;wrzody
+hemorrhage;krwotok
+nifty;świetny, wspaniały
+abacus;liczydło
+braid;warkocz
+entrails;wnętrzności
+perpendicular;pionowy, prostopadły
+pitiful;żałosny
+incredulously;nie dowierzając
+sabbatical leave;urlop naukowy
+alcove;wnęka
+trepidation;trwoga
+gruff;szorstki
+dour;oschły, surowy
+with a vengeanec;zawzięcie
+particle;cząsteczka
+tune-up;przegląd auta
+blob;plamka, kropelka
+stalk;łodyga, szypułka
+perennial;wieczysty, wieloletni
+aghast;przerażony
+prissy;afektowany
+liaison;związek, współpraca
+potpourri;mieszanina, zbieranina
+nitpicking;szukanie dziury w całym
+spring;sprężyna
+dilute;rozcieńczać, osłabiać
+kowtow to somebody;płaszczyć się przed kimś
+loins;lędźwie
+layman;laik
+debris;gruzy
+sycamore;platan
+mottled;cętkowany
+recumbent;leżący
+stilted;sztywny, wymuszony
+heron;czapla
+barley;jęczmień
+pugnacious;zaczepny, kłótliwy
+brittle;kruchy
+derision;szyderstwo, drwina
+aloof;powściągliwy
+meager;skąpy, skromny
+bunk;kojec
+liniment;mazidło
+muzzle;wylot lufy
+encroach;naruszać, wtargnąć
+writ;nakaz urzędowy
+maritime;morski (np. o flocie)
+strait;cieśnina
+infatuation;zadurzenie
+shale gas;gaz łupkowy
+arable;uprawny, orny
+tally;rejestr
+vessel;okręt (ciekawostka;sporo słów przytoczonych do tej pory pochodzi z biografii pana Richarda)
+vie;rywalizować
+woo;zabiegać o względy
+sovereignty;suwerenność
+demise;zgon, zanik
+quash;unieważniać
+enmity;wrogość
+snooty;przemądrzały
+rowanberry;jarzębina
+cripple;kaleka
+dizziness;zawroty głowy
+escalator;ruchome schody
+cod;dorsz
+whipped cream;bita śmietana
+yeast;drożdże
+infusion- napar
+veal;cielęcina
+gravy;sos do mięs
+walnut;orzech włoski
+horseradish;chrzan
+force the right of way;wymusić pierwszeństwo
+don't hold a grudge;nie chować urazy
+place of residence;miejsce zamieszkania
+marital status;stan cywilny
+vocational school;szkoła zawodowa
+numerous family;rodzina wielodzietna
+foster child;dziecko przybrane
+next of kin;najbliższy krewny
+frizzy hair;kręcone włosy
+malicious;złośliwy
+plump;pulchny
+auburn hair;kasztanowe włosy
+bitter enemies;zaciekli wrogowie
+pet subjects;ulubione tematy
+non-stop talker;gaduła
+phlegmatic;flegmatyczny
+incurable optimist;niepoprawny optymista
+slender;smukły
+bony;kościsty
+stout;tęgi
+stocky;krępy
+obese;otyły
+absent-minded;roztargniony
+clumsy;niezgrabny
+conceited;zarozumiały
+secretive;skryty
+stubborn;uparty
+diligent;pilny (cecha charakteru)
+tactful;taktowny
+to rinse one's face;przemyć twarz
+to play truant;chodzić na wagary
+the matriculation;immatrykulacja (zaliczenie w poczet studentów wyższej uczelni)
+form teacher;wychowawca klasy
+to swot;wkuwać
+lenient;pobłażliwy
+ordeal;męka
+tie-dyed;nierównomiernie farbowany (o koszulkach)
+master and ruler;pan i władca
+to bear and rear children;rodzić i wychowywać dzieci
+out of wedlock;nieślubny (o dziecku)
+stigmatized;piętnowany
+bread-winning father;ojciec-żywiciel rodziny
+unwed;niezamężna
+registry wedding;ślub cywilny
+juvenile deliquent;młodociany przestępca
+martyr;męczennik
+faire policy;polityka wolnej ręki
+obedient;posłuszny
+to rebuke;ganić
+oracle;wyrocznia
+sophomore;student drugiego roku
+negligence;zaniedbywanie
+spouse;małżonek/małżonka
+momentary whim;chwilowy kaprys
+acquainted with;zaznajomiony z
+adaptable;potrafiący się przystosować
+advancement;postęp, polepszenie
+aware of;świadomy czegoś
+be equipped (with sth);być wyposażonym
+buzzword;modne powiedzonko, popularny zwrot
+cease;przerwać
+compliant;uległy
+condiment;przyprawa kulinarna
+contaminant;substancja skażająca
+designate;wyznaczać
+determine;ustalać
+impact;wpływać
+implement;wprowadzić w życie
+integrate;zintegrować
+interact (with sth);oddziaływać, wchodzić w interakcje z czymś
+interface;komunikować się, nawiązywać relacje
+interrelate;wiązać ze sobą, wpływać na siebie wzajemnie
+manipulate;manipulować
+matter;materiał, substancja
+modernise;zmodernizować
+molecular;cząsteczkowy, molekularny
+occupant;lokator
+push boundaries;przekraczać granice, wyznaczać nowe granice, przesuwać granice
+research and development;dział badan i rozwoju
+revolutionise;rewolucjonizować
+terminate;kończyć, zakończyć
+adhere;stosować się
+to allocate;alokować
+be on the same wavelength;zrozumieć/zgodzić się
+bookmark;zakładka
+browse;wyszukać
+carry out;jedzenie na wynos
+click;kliknąć
+conduct;postępowanie
+conjecture;przypuszczenie
+crash;kraksa
+cutting edge;krawędź tnąca
+demonstration;demonstracja
+deny;odrzucić
+detect;wykryć
+dispute;spór
+distraction;dekoncentracja
+Drawback-wada
+facilitate;ułatwiać
+freeze;wygasić monitor
+get my wires crossed;zagalopować się, nie zrozumieć się z kimś
+hypothesise;założenie, podejrzenie
+illiteracy;analfabetyzm
+indicate;wskazywać, podawać
+initiate;zainicjować, rozpocząć
+innovation;nowość, innowacja
+instalation;montaż, instalacja
+it's not rocket science;coś nie bardzo trudnego do zrozumienia
+load;wczytać
+navigation;nawigacja
+oversee;nadzorować
+podcast;podkast, audycja internetowa
+predict;przewidzieć
+prompt;szybki, punktualny
+pull the plug;wyciągnąć wtyczkę
+refresh;odświeżyć
+refute;udowodnić błędność czegoś
+reinvent;zreformować, wynaleźć ponownie
+renew;odnowić
+resolve;rozwiązać
+retain;zachować, utrzymać
+sth is light years ahead;coś w bardzo dalekiej przyszłości
+stingray;płaszczka
+trigger;spust, spowodować coś
+uncover;odkryć
+undertake;podjąć się czegoś
+be bound to;być zobowiązanym do
+be due to;mieć coś zrobić
+be on the verge of;być na krawędzi
+diverse;różnorodny
+ground-breaking;przełomowe
+hypospray;hipospray/wtrysk odrzutowy
+imminent;bliski
+utterly ;całkowicie
+adept (at sth);być biegłym w czymś
+adequate;odpowiedni
+budget;budżet
+entrust (sb with sth);powierzyć coś komuś
+justifiable;uzasadniony
+discourse management;zarządzanie dyskursem
+eye catching;przyciągający wzrok
+speculate;spekulować
+accessible;dostępny
+acquire;nabyć
+coherent;zgodny
+collaborate;współpracować
+compulsory;obowiązkowy
+enhance;wzmacniać
+entice;wabić
+evaluate;oceniać
+foreseeable;do przewidzenia
+frustration;udaremnienie
+funding;finansowanie
+gain an insight into;uzyskać wzgląd w
+hazard;zaryzykować
+jargon;żargon
+literate;piśmienny
+outdated;przestarzały
+register;zarejestrować
+remedy;zaradzić
+technista;ekspert komputerowy
+unforeseen;nieprzewidziany
+amend;modyfikować
+assemble;montować
+be cross the line;przekraczać granice
+be on the horizon;patrzeć w przyszłość
+be on the varge of;być na krawędzi
+be worthwhile (to do sth);być wartościowym do (robienia czegoś)
+be worthy of;być godnym
+capability;zdolność
+contradict;zaprzeczać
+devise;wymyślać
+dispense;obyć się
+dispute;spierać się
+empathy;empatia
+enable;umożliwiać
+engage;angażować
+enhance;wzmacniać
+execute;wykonać
+facilitate;ułatwiać
+founding;założenie
+fund;fundusz
+grant;dotacja
+have access to sth;mieć dostęp do czegoś
+impending;bliski
+imposition;nakładanie
+incomplete;niedokończony
+insufficient;niewystarczający
+integrate;scalić
+interact (with sth);oddziaływać (z czymś)
+interface;złącze
+interrelate;współzależność
+invest (in sth);inwestować w coś
+it’s worth it;to jest tego warte
+leave  my mark on sth;pozostawić po sobie znak na czymś
+make a point;udowodnić coś
+motion sensor technology;czujnik ruchu
+operate;obsługiwać
+optimise;zwiększać efektywność
+oversee;nadzorować
+parameter;czynnik
+partition;podział
+perceptiveness;spostrzegawczość
+portion;część/porcja
+Position;sytuacja, pozycja życiowa
+Potion;magiczny napój
+Proportion;proporcja
+Reception;jakość odbieranego sygnału radiowego lub TV
+Rectify;zrobić coś słusznego/naprawić coś
+Revise;(dla tekstu) edytować
+Sharpen;ulepszyć coś
+Socket;gniazdo (np na procesor)
+Solely;wyłącznie
+Spot;lokacja, miejsce
+Starting;początek wydarzenia
+Sth is worth doing;coś jest interesujące, warte zrobienia
+Toil away;pracować bardzo ciężko
+Underlying;bardzo ważny ale nie oczywisty
+Unsatisfactory;niewystarczająco dobry
+Unsuitable;nieodpowiedni
+Upgrade;ulepszyć
+Vulnerable;wrażliwy
+artificial;sztuczny
+cloak;peleryna
+counterfeit;falsyfikat
+debugger;osoba usuwająca błędy
+conduct;prowadzić
+engage;zablokować w miejscu
+false;nieprawdziwy
+in the blink of an eye;w mgnieniu oka
+leap tall buildings in a single bound;zrobić coś niemożliwego
+mainframe computer;główny serwer
+outbreak;wybuch/epidemia
+outcome;rezultat
+outdo;zrobić coś lepiej
+outline;podsumować
+outlook;perspektywa
+outnumber;przewyższać liczebnie
+outsource;korzystać z usługi zewnętrznej
+outweigh;przewyższać
+rubble;gruz
+feedback;opinia zwrotna
+A piece of cake;bułka z masłem
+Again and again;stale, wciąż
+Against all (the) odds;pomimo wszelkich przeciwności
+All the better/worse;tym lepiej/gorzej
+Arm in arm;pod rękę
+As dry as a bone;suchy jak pieprz
+As high as a kite;na wysokich obrotach
+As right as rain;jak nowy
+As sober as a judge;zupełnie trzeźwy
+as sound as a bell;zdrów jak ryba
+As you go along;na poczekaniu
+At the drop of a hat;natychmiast, bez namysłu
+Bag of bones;skóra i kości (chudzielec)
+Be around;być, być obecnym
+Be at bay;być w sytuacji bez wyjścia
+be burning to do something;palić się, żeby coś zrobić
+Be in a tight corner;być przypartym do muru
+Be in the background;pozostawać w cieniu
+be second to none;nie ustępować nikomu
+be short of something;mieć za mało czegoś
+Be up for grabs;być do wzięcia
+Be up the creek;być w tarapatach
+beat down;lać (o deszczu), prażyć (o słońcu)
+bed of roses;życie usłane różami
+Before my very eyes;na moich oczach
+Bite back;ugryźć się w język
+Blind alley;ślepy zaułek
+Blow one’s cookies;rzygać
+Boil with anger;kipieć ze złości
+Bottoms up!;Do dna!
+Bounce back;pozbierać się
+Buy a pig in a poke;kupować kota w worku
+By hook or by crook;za wszelką cenę
+By the bye;nawiasem mówiąc
+Call it quits;uważać sprawę za załatwioną
+Catch a chill;przeziębiać się
+Cheer up! Głowa do gory!
+Chew the cud;rozmyślać
+Chip in;zrzucać się
+Chop and change;wciąż zmieniać zdanie
+Cock-and-bull story;niestworzona historia
+Come to a cropper– dać plamę
+Contrary to all appearances;wbrew pozorom
+Cough up;wybulić
+Do one’s bit;robić swoje
+Double Dutch;niezrozumiały język, chińszczyzna
+Dutch courage;odwaga po pijanemu
+eager beaver/busy bee;pracowity jak mrówka
+Feel funny;czuć się lekko chorym
+First thing in the morning;z samego rana
+Flog a dead horse;wysilać się na próżno
+For kicks;dla przyjemności
+Get a grip;brać się w garść
+Get a kick;podniecać się
+Get out while the going is good;wycofać się póki można
+Give somebody a buzz;dzwonić do kogoś
+Give/lend a hand ;pomagać
+Go hammer and tongs;iść na noże
+Go on a binge;iść w tango
+Go to the whole hog;iść na całość
+Good riddance!;Chwała Bogu, że sobie poszedł!
+Have a big mouth;mieć długi język, być paplą, głośno mówić
+Have a crush on somebody;kochać się w kimś
+Have a finger in every pie;być zaangażowanym w wiele spraw
+Have a fit;dostawać szału
+Have itchy feet;nie móc usiedzieć na miejscu
+Have the guts;mieć odwagę, nie bać się
+Have the luck of the devil;mieć niesamowite szczęście
+Hit a man when he’s down;kopać leżącego
+Hit the hay;uderzać w kimono
+I wouldn’t bet on that;nie liczyłbym na to
+In dribs and drabs;po troche, partiami
+it becomes to us;wypada, żebyśmy
+it looks becoming on you;do twarzy ci w tym
+It’s a bit thick!;to już przesada!
+It’s a good bet that;to więcej niż pewne, że
+It’s another kettle of fish;to inna para kaloszy
+it’s beneath me;(to) uwłacza mojej godności
+It’s far from easy;nie jest łatwo
+Know better than that;dobrze wiedzieć
+Know the ropes;znać się na rzeczy
+Lay it on the line;mówić szczerze i otwarcie
+Like a bull in a china shop;jak słoń w składzie porcelany
+Lost in a book;zatopiony w lekturze
+Lull before the storm;cisza przed burzą
+Make a killing;obłowić się
+Man to man;jak równy z równym
+Mumbo jumbo;bełkot, czarna magia
+Off the cuff;z głowy, bez przygotowania
+Old chestnut;oklepany żart
+Out of thin air;ni stąd ni zowąd
+Play the field;używać życia
+Put something on the back burner;odkładać coś na później
+Put the cart before the horse;odwracać kota ogonem
+Put your money where your mouth is;przejdź od słów do czynów
+Quick on the draw;szybki w gębie
+Right off the bat;z miejsca, od razu
+Save one’s bacon;ocalić skórę (BrE)
+Save your breath;szkoda słów
+Scream blue murder;drzeć się, wrzeszczeć
+See a man about a dog;iść do toalety
+Show a clean pair of heels;brać nogi za pas
+Sit on the fence;być bezstronnym
+Sleep like a log;spać jak kamień
+Slip of the tongue;przejęzyczenie
+Smell a rat;wyczuwać podstęp
+spill the beans;wygadać się
+Stand in awe of somebody;czuć respekt przed kimś
+Straight from the horse’s mouth;z pierwszej ręki
+Sunday best;odświętne ubranie
+Take a rain check on something;zastanowić się nad czymś
+Take everything but the kitchen sink;zabierać ze sobą dużo niepotrzebnych rzeczy
+Take flight;uciekać
+Talk the hind legs off a donkey;przegadać każdego
+Talk through one’s hat;pleść co ślina na język przyniesie
+Tempt (a) fate;kusić los
+that rings a bell;coś mi to przypomina
+The apple of one’s eye;oczko w głowie
+There is something afoot;zanosi się na cóś, coś się święci
+Vanish into thin air;znikać bez śladu
+Wag one’s chin;trzaskać dziobem
+Wear blinkers;mieć klapki na oczach
+What’s eating you?;Co cię gryzie?
+What’s your game?;Co knujesz?
+Kick the bucket;Kopnąć w kalendarz
+recommendation;rekomendacja
+for instance;na przykład
+in addition;dodatkowo
+consequently;wskutek tego/w konsekwencji
+in conclusion;na koniec/zakończenie
+due to;dzięki czemuś
+moreover;co więcej
+therefore;dlatego/zatem
+to engage;zajmować się
+a survey;badanie/ankieta
+carry out a survey;wykonać badanie
+external;zewnętrzny
+appraisal;wycena
+tight schedule;napięty harmonogram
+approach;zbliżać się
+foster;pielęgnować
+guidance;wskazówki
+opportunity;okazja
+elicit;uzyskać
+supervise;nadzorować
+autonomy;niezależność
+overdo;przesadzać z czymś
+delighted;zachwycony
+exceptional;wyjątkowy
+mess up;psuć, rujnować coś, schrzanić coś
+praise;pochwała
+evacuate;ewakuować
+impact;wpływ
+turn something down;odrzucać coś (np. ofertę, propozycję)
+resettlement;przesiedlenie
+to pass for;uchodzić za
+mediocre team;przeciętna drużyna
+team-building effort;wysiłek budowania zespołu
+to be labeled;być zaszufladkowanym
+commitment;zaangażowanie
+false politeness;fałszywa uprzejmość
+to impose;narzucać
+to lose one's temper;stracić panowanie nad sobą
+prevailed;dominować
+unrivalled;niedościgniony, bezkonkurencyjny
+to start from scratch;zacząć od zera
+accomplish;ukończyć
+aspiring;ambitny, aspirujący
+buy into;dać się przekonać do czegoś, “kupić coś”
+to offend;obrazić
+scope;zakres
+the bully;tyran
+the leader;lider, przywódca
+the maverick;indywidualista
+the team player;osoba która potrafi pracować w zespole
+the workaholic;pracoholik
+hectic ;nerwowy
+loner;samotnik
+single-minded;zdeterminowany
+anxious;niespokojny
+easy-going;luźny
+independent;niezależny
+over-critical;przesadnie krytyczny
+unpredictable;nieprzewidywalny
+danger of burning out;niebezpieczeństwo wypalenia (zawodowego)
+to settle in;zaaklimatyzować się
+to get on well with someone;dobrze się z kimś dogadywać
+to let sb down;zawieść kogoś
+take it easy!;nie denerwuj się!
+attitude;nastawienie
+starve;umierać z głodu
+groan;jęczeć
+cod;dorsz
+skinny;chudy
+dip;zanurzać sie
+scold;dawać repremende/ krzyczeć na kogoś
+germs;zarazki
+pull away;odjeżdżać
+pram;wózek dziecęcy
+spring;sprężyna
+outlook;podgląd
+brand new;nowiuteńki
+sniff;wąchać
+ambitious;ambitny
+sociable;społeczny/kontaktowy
+absent-minded;roztrzepany
+cautious;ostrożny
+conscientious;sumienny
+rebellious;buntowniczy
+curious;ciekawy
+sensitive;wrażliwy
+articulate;wygadany
+overbearing;dominujący
+ingenious;pomysłowy
+resourceful;przedsiębiorczy
+tough-minded;bezkompromisowy
+thorough;dokładny/drobiazgowy
+unfocused;rozkojarzony
+rough;przygotowany z grubsza
+aisle;alejka
+gut feeling;przeczucie
+itinerary;plan podrózy
+resolve;postanowić
+take advantage of;wyorzystać
+bring up;wychowywać
+plan in advance;z wyprzedzeniem
+trait;cecha
+maintain;utrzymać
