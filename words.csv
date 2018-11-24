@@ -158,7 +158,6 @@ bottom line;saldo
 collateral;zabezpieczenie pożyczki
 commodity;dobro, towar
 copyright;prawo autorskie
-deflation;deflacja
 dividend;dzielna, dywidenda
 entrepreneur;przedsiębiorca
 expenses;koszty
@@ -170,7 +169,6 @@ investment;inwestycja
 invoice;faktura
 liability;odpowiedzialność
 offer;oferta
-owner;właściciel
 overhead;koszty stałe
 policy;polityka, zasady
 shareholder;akcjonariusz
@@ -225,7 +223,7 @@ longbow;łuk
 machine gun;karabin maszynowy
 mortar;moździerz
 rifle;karabin
-saber;szabla
+sabre;szabla
 spear;dzida
 taser;paralizator
 whip;bicz
@@ -334,7 +332,7 @@ aloof;powściągliwy
 meager;skąpy, skromny
 bunk;kojec
 liniment;mazidło
-muzzle;wylot lufy
+muzzle;pysk
 encroach;naruszać, wtargnąć
 writ;nakaz urzędowy
 maritime;morski (np. o flocie)
@@ -435,7 +433,6 @@ integrate;zintegrować
 interact (with sth);oddziaływać, wchodzić w interakcje z czymś
 interface;komunikować się, nawiązywać relacje
 interrelate;wiązać ze sobą, wpływać na siebie wzajemnie
-manipulate;manipulować
 matter;materiał, substancja
 modernise;zmodernizować
 molecular;cząsteczkowy, molekularny
@@ -449,8 +446,7 @@ to allocate;alokować
 be on the same wavelength;zrozumieć/zgodzić się
 bookmark;zakładka
 browse;wyszukać
-carry out;jedzenie na wynos
-click;kliknąć
+Takeaway;jedzenie na wynos
 conduct;postępowanie
 conjecture;przypuszczenie
 crash;kraksa
@@ -499,7 +495,6 @@ imminent;bliski
 utterly ;całkowicie
 adept (at sth);być biegłym w czymś
 adequate;odpowiedni
-budget;budżet
 entrust (sb with sth);powierzyć coś komuś
 justifiable;uzasadniony
 discourse management;zarządzanie dyskursem
@@ -514,7 +509,6 @@ enhance;wzmacniać
 entice;wabić
 evaluate;oceniać
 foreseeable;do przewidzenia
-frustration;udaremnienie
 funding;finansowanie
 gain an insight into;uzyskać wzgląd w
 hazard;zaryzykować
@@ -606,7 +600,6 @@ outweigh;przewyższać
 rubble;gruz
 feedback;opinia zwrotna
 A piece of cake;bułka z masłem
-Again and again;stale, wciąż
 Against all (the) odds;pomimo wszelkich przeciwności
 All the better/worse;tym lepiej/gorzej
 Arm in arm;pod rękę
@@ -833,3 +826,155 @@ bring up;wychowywać
 plan in advance;z wyprzedzeniem
 trait;cecha
 maintain;utrzymać
+the skeleton in the closet;wstydliwy sekret
+have a bone to pick with somebody;mieć z kimś na pieńku
+the elephant in the room;oczywista prawda, które jest ignorowana
+sweep something under the rug;zamiatać coś pod dywan
+clean slate;czyste konto
+have bigger fish to fry;mieć ważniejsze sprawy do załatwienia
+fish for compliments;dopraszać się komplementów
+like shooting fish in a barrel;coś co jest proste jak drut
+holy mackerel;jasna cholera
+keep your eye on somebody;nie spuszczć kogoś z oczu
+leave well enough alone;dobrze jest jak jest/ nie poprawiaj tego co dobre
+call somebody’s bluff;zmusić kogoś do pokazania kart
+pack of lies;stek kłamstw
+let the cat out of the bag;wygadać się/ puścić parę z ust
+fall apart;rozkleić się/ nie radzić sobie z emocjami
+not have a leg to stand on;nie mieć żadnego uzasadnienia
+be in the limelight;być w centrum uwagi
+spill the beans;puścić parę z ust/ wyjawić sekret
+break somebody’s heart;złamać czyjeś serce
+kill two birds with one stone;upiec dwie pieczenie na jednym ogniu
+stab somebody in the back;wbić komuś nóż w plecy/ zdradzić kogoś
+stick to your guns;obstawać przy swoim
+window of opportunity;niepowtarzalna okazja
+laugh your ass off;śmiać się do rozpuku
+time flies;czas mija bardzo szybko
+I’m all ears;zamieniam się w słuch
+a picture is worth a thousand words;obraz przemawia prościej i skuteczniej niż słowa
+frame of mind;nastrój
+bad apple;zakała/ osoba rozbijająca grupę
+cut the cheese;puścić bąka
+on the chopping block;w niebezpieczeństwie/ pod znakiem zapytania
+put all your eggs in one basket;postawić wszystko na jedną kartę
+a piece of cake;łatwizna
+cry over spilt milk;płakać nad rozlanym mlekiem
+everything but the kitchen sink;wszystko, co wpadnie w ręce
+the last straw;kropla przepełniająca czarę goryczy
+come clean;przyznać się/ ujawnić
+cup of joe;filiżanka kawy
+have a lot on your plate;mieć dużo na głowie
+an uphill struggle;bardzo trudne zadanie
+a pack of lies;stek kłamstw
+a shoulder to cry on;ktoś, komu można się wyżalić
+easier said than done;łatwiej powiedzieć, niż zrobić
+first come, first served;kto pierwszy, ten lepszy
+in a nutshell;krótko i zwięźle
+it’s a piece of cake;to dziecinnie proste
+it’s on the tip of my tongue;mam to na końcu języka
+out of the blue;znienacka, jak grom z jasnego nieba
+third time lucky;do trzech razy sztuka
+to be pain in the neck;być nie do zniesienia
+to be green with envy;pękać z zazdrości
+to be in sb’s shoes;być na czyimś miejscu
+to be plain sailing;nie być niczym trudnym
+to get out of hand;wymykać się spod kontroli
+to need sth like a hole in the head;potrzebować czegoś jak dziury w moście
+to pull sb’s leg;robić kogoś w konia
+to rack your brains;wytężać umysł
+to spend money like water;wydawać pieniądze lekką ręką
+to spread like wildfire;rozchodzić się w błyskawicznym tempie
+Aberration;Odchylenie od normy
+Abhor;Nienawidzieć, nie znosić
+Acquiesce;Zgadzac sie, aprobowac
+Alacrity;Ochota
+Amiable;Kolezenski
+Appease;Zaspakajać
+Arcane;Tajemniczy
+Avarice;Skapstwo, chciwość
+Brazen;Bezwstydny, bezczelny
+Brusque;Szorstki, obcesowy
+Cajole;Namawiać, perswadować
+Callous;Bezduszny
+Candor;Szczerość
+Chide;Zbesztac
+Circumspect;Ostrozny
+Clandestine;Tajny, sekretny
+Coerce;Zmuszać
+Coherent;Spójny
+Complacency;Samozadowolenie
+Confidant;Powiernik, zaufany
+Connive;Knuć, spiskować, Pobłażać
+Cumulative;Skumulowany, zbiorczy
+Debase;Poniżać, upokarzać
+Decry;Potępiać, oczerniać
+Deferential;Pełen szacunku
+Demure;Wstydliwy, nieśmialy, skromny
+Deride;Kpic, drwic
+Diligent;=industrious, pilny
+Elated;Podniecony, podekscytowany
+Embezzle;Defraudowac, sprzeniewierzac
+Enmity;Wrogość
+Erudite;Uczony
+Extol;Wychwalać
+Fabricate;Produkować
+Feral;Dziki
+Flabbergasted;Zszokowany, oslupialy
+Forsake;Porzucać, opuszczać
+Furtive;Potajemny, skryty
+Gluttony;Obżarstwo
+Gratuitous;Niczym nie uzasadniony
+Haughty;Wyniosły
+Disdainful;Lekcewazacy
+Hypocrisy;Obłuda
+Impeccable;Nieskazitelny, bez zarzutu
+Impertinent;Zuchwały
+Implacable;Nieugięty, nieublagany
+Impudent;Zuchwały
+Incisive;Ostry, cięty,
+Indolent;Opieszaly, leniwy
+Inept;Niekompetentny, nie na miejscu
+Inhibit;Powstrzymać, hamować
+Innate;Wrodzony
+Insatiable;Niezaspokojony
+Insular;Odizolowany
+Intrepid;Odważny, mężny
+Inveterate;Utraty, przyjęty
+Jubilant;Uradowany
+Knell;Dźwięk dzwonu zwiastujacy smierc
+Lithe;Giętki, gibki
+Lurid;Sensacyjny, szokujący
+Maverick;Niezależny
+Maxim;Zasada, maksyma
+Meticulous;Skrupulatny
+Modicum;Odrobina, troszkę
+Morose;Ponury, przyblity
+Myriad;Ogromna liczba! Niezliczonosc
+Nadir;Punkt kulminacyjny (neg.)
+Trifling;Nieistotny, blahy
+Nuance;Drobiazg, szczegół
+Oblivious;Nieświadomy
+Obsequious;Służalczy, poniżony
+Inculate;Wpajać
+Obtuse;Tępy, ograniczony
+Penchant;Skłonność
+Peruse;Przeglądać
+Plethora;Nadmiar, obfitosc
+Predilection;Preferencje, skłonność
+Quaint;Przytulny
+Repudiate;Odrzucac, nie uznawać
+Rife;Rozpowszechniony, pełen
+Salient;Najistotniejszy
+Splinter;Drzazga
+Serendipity;Zdolność robienia szczęśliwych odkryć przypadkiem
+Staid;Powazny
+Superfluous;Zbedny, nadmierny
+Sycophant;Pochlebca
+Truculent;Zaczepny, agresywny
+Umbrage;Obraza
+Venerable;Szacowny, czcigodny
+Vex;Dokuczac, irytować
+Vociferous;Krzykliwy, głośny
+Wanton;Rozwiązły, rozpustny
+Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch;miejscowość w północno-zachodniej Walii, na wyspie Anglesey ( ͡° ͜ʖ ͡°)
