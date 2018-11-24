@@ -50,6 +50,7 @@ foreach ($commentsCollection as $comment) {
         if (isset($response['error']['code'])) {
             sleep(60);
         } else {
+            $commentPosted = true;
             sleep(5);
         }
     }
