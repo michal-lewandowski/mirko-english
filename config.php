@@ -8,6 +8,5 @@ return [
     ],
     'wordsPath' => dirname(__FILE__).'/words.csv',
     'postIdStorePath' => dirname(__FILE__).'/store.txt',
-    'template' => "
-    "
+    'template' => ""
 ];
