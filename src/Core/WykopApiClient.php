@@ -11,28 +11,45 @@ namespace App\Core;
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Response;
 
-class WykopClient
+class WykopApiClient
 {
     const API_URL = 'https://a2.wykop.pl/%s/appkey/%s/userkey/%s';
+    const API_POST = 'post';
+    const API_GET = 'get';
 
     private $client;
     private $appkey;
     private $secret;
     private $userKey;
+    private $userName;
+    private $accountKey;
 
-    public function __construct(string $appkey, string $secret)
+    public function __construct(string $appkey, string $secret, string $userName, string $accountKey)
     {
         $this->client = new Client();
         $this->appkey = $appkey;
         $this->secret = $secret;
+        $this->userName = $userName;
+        $this->accountKey = $accountKey;
+        $this->logIn();
     }
 
-    public function logIn(string $userName, string $accountKey)
+    public static function createFromConfig(array $config): self
+    {
+        return new self(
+            $config['wykopApi']['appkey'],
+            $config['wykopApi']['secret'],
+            $config['wykopApi']['username'],
+            $config['wykopApi']['accountkey']
+        );
+    }
+
+    private function logIn()
     {
         $url = sprintf('https://a2.wykop.pl/%s/appkey/%s','login/index', $this->appkey);
         $body = [
-            'login' => $userName,
-            'accountkey' => $accountKey
+            'login' => $this->userName,
+            'accountkey' => $this->accountKey
         ];
         /** @var Response $response */
         $response = $this->client->post($url, [
@@ -46,12 +63,12 @@ class WykopClient
 
     public function post(string $resource, array $body = [])
     {
-        return $this->doRequest($resource, 'post', $body);
+        return $this->doRequest($resource, self::API_POST, $body);
     }
 
     public function get(string $resource)
     {
-        return $this->doRequest($resource, 'get');
+        return $this->doRequest($resource, self::API_GET);
     }
 
     private function doRequest(string $resource, string $method, array $body = []): array

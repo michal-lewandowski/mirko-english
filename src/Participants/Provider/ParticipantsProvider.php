@@ -8,14 +8,14 @@
 
 namespace App\Participants\Provider;
 
-use App\Core\WykopClient;
+use App\Core\WykopApiClient;
 use App\Participants\Collection\ParticipantsCollection;
 
 class ParticipantsProvider
 {
     private $client;
 
-    public function __construct(WykopClient $client)
+    public function __construct(WykopApiClient $client)
     {
         $this->client = $client;
     }
