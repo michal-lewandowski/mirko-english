@@ -16,11 +16,12 @@ use App\Posts\Model\EntryTemplate;
 
 class WordsPoster
 {
+    const POST_ENTRY = 'Entries/Add';
+    const POST_COMMENT = 'Entries/CommentAdd';
     /**
      * @var WykopApiClient
      */
     private $client;
-
 
     public function __construct(WykopApiClient $client) {
         $this->client = $client;
@@ -28,7 +29,7 @@ class WordsPoster
 
     public function postEntry(EntryTemplate $template): Entry
     {
-        $newEntryResponse = $this->client->post('Entries/Add', [
+        $newEntryResponse = $this->client->post(self::POST_ENTRY, [
             'body' => (string) $template
         ]);
         return new Entry((int) $newEntryResponse['data']['id'], $template);
@@ -45,12 +46,13 @@ class WordsPoster
         }
     }
 
-    private function postComment(Entry $entry, Comment $comment): void
+    public function postComment(Entry $entry, Comment $comment): void
     {
         $commentPosted = false;
+        $commentUri = sprintf('%d/%d',self::POST_COMMENT,$entry->getId());
         while (false === $commentPosted) {
-            $response = $this->client->post('/Entries/CommentAdd/'.$entry->getId(), ['body' => $comment->__toString()]);
-            // In case when wykop antispam blocks sending comments
+            $response = $this->client->post($commentUri, ['body' => $comment->__toString()]);
+            // Wait 60sec in case when wykop antispam blocks sending comments
             if (isset($response['error']['code'])) {
                 sleep(60);
             } else {
