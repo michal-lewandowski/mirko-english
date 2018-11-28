@@ -15,19 +15,19 @@ class ObjectCollection extends ArrayCollection
     /**
      * @var string
      */
-    private $object;
+    private $className;
 
-    public function __construct(string $object, array $elements = [])
+    public function __construct(string $className, array $elements = [])
     {
         parent::__construct($elements);
-        $this->object = $object;
+        $this->className = $className;
     }
 
     public function add($element)
     {
-        if (false === $element instanceof $this->object) {
+        if (false === $element instanceof $this->className) {
             throw new \InvalidArgumentException(sprintf(
-                'Element must be instance of %s',$this->object
+                'Element must be instance of %s',$this->className
             ));
         }
         parent::add($element);
