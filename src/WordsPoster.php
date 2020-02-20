@@ -30,7 +30,8 @@ class WordsPoster
     public function postEntry(EntryTemplate $template): Entry
     {
         $newEntryResponse = $this->client->post(self::POST_ENTRY, [
-            'body' => (string) $template
+            'body' => (string) $template,
+            'embed' => $template->getAttachedImage()
         ]);
         return new Entry((int) $newEntryResponse['data']['id'], $template);
     }
@@ -49,7 +50,7 @@ class WordsPoster
     public function postComment(Entry $entry, Comment $comment): void
     {
         $commentPosted = false;
-        $commentUri = sprintf('%d/%d',self::POST_COMMENT,$entry->getId());
+        $commentUri = sprintf('%s/%d',self::POST_COMMENT,$entry->getId());
         while (false === $commentPosted) {
             $response = $this->client->post($commentUri, ['body' => $comment->__toString()]);
             // Wait 60sec in case when wykop antispam blocks sending comments

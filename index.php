@@ -24,7 +24,7 @@ $participantsWordsCollection = ParticipantWordCollection::createFromWordsAndPart
 $commentsCollection = CommentsCollection::createFromParticipantsWords($participantsWordsCollection);
 
 $wordsPoster = new WordsPoster($client);
-$postTemplate = new EntryTemplate($config['template']);
+$postTemplate = new EntryTemplate($config['template'], $config['attachedImage']);
 
 $newEntry = $wordsPoster->postEntry($postTemplate);
 $wordsPoster->postComments($newEntry, $commentsCollection);

@@ -16,14 +16,29 @@ class EntryTemplate
      */
     private $template;
 
-    public function __construct(string $template)
+    /**
+     * @var string
+     */
+    private $attachedImage;
+
+
+    public function __construct(string $template, string $attachedImage)
     {
         $this->template = $template;
+        $this->attachedImage = $attachedImage;
     }
 
     public function getTemplate(): string
     {
         return $this->template;
+    }
+
+    /**
+     * @return string
+     */
+    public function getAttachedImage()
+    {
+        return $this->attachedImage;
     }
 
     public function __toString()
